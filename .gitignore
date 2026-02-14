@@ -1,0 +1,30 @@
+# =========================
+# Archivos compilados
+# =========================
+*.class
+*.log
+
+# =========================
+# Carpetas de compilación
+# =========================
+build/
+dist/
+out/
+
+# =========================
+# NetBeans
+# =========================
+nbproject/private/
+nbproject/build-impl.xml
+
+# =========================
+# IDEs
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Archivos del sistema
+# =========================
+.DS_Store
+Thumbs.db
